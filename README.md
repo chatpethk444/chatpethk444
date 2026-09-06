@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+<Chatpeth>;A+Passionate+FullStack+Developer;I+love+building+cool+stuff.;Let's+collaborate!" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   
 <h1>Techs</h1>
 
