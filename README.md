@@ -1,9 +1,6 @@
 <h2 data-importer="text" align="left"></h2>
 
 ###
-
-<img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTllMDZwamZwNGpscXNnOGVoM3ByOWh0ZDE2NjVrM3oycmE2YW1paCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
 ###
 
 <div data-importer="socials" align="left">
